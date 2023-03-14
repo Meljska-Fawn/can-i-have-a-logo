@@ -12,7 +12,7 @@ This project is a Node.js command-line application that takes user input to gene
 
 ## Usage
 
-* [Watch](https://drive.google.com/file/d/1CX0A1hhF7EJS1IL5iC_Y2TUky7_OUBCr/view) the video walkthrough to see how to use the application. 
+[Watch](https://drive.google.com/file/d/1VTR3TL_UnmEOctmPG6i7_rZLai5sF29z/view?usp=share_link) the video walkthrough to see how to use the application. 
 
 ## Credits
 
